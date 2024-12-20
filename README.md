@@ -14,5 +14,3 @@ I'm a passionate software developer specializing in web and mobile applications.
 - [Email](mailto:mlatymowicz@gmail.com)
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to connect.
